@@ -64,6 +64,7 @@
   left: 0;      /* CHANGED */
   margin-left: 0;   /* CHANGED */
   top: 0;        /* CHANGED */
+  opacity: 0;    /* ADDED */
 }
 
 .video-js .vjs-no-flex .vjs-overlay-left, .video-js .vjs-no-flex .vjs-overlay-center, .video-js .vjs-no-flex .vjs-overlay-right {
